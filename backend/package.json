@@ -1,0 +1,11 @@
+{
+  "name": "inotebook",
+  "version": "1.0.0",
+  "description": "notebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourabh",
+  "license": "ISC"
+}
